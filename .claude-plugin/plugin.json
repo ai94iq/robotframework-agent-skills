@@ -1,0 +1,13 @@
+{
+  "name": "robotframework-agent-skills",
+  "version": "1.0.0",
+  "description": "Robot Framework skills: MaestroLibrary, robotframework-mind, run digests, mutant checks, plus Browser, RequestsLibrary and RESTinstance skills with extra triage guides.",
+  "author": {
+    "name": "ai94iq",
+    "url": "https://github.com/ai94iq"
+  },
+  "homepage": "https://github.com/ai94iq/robotframework-agent-skills",
+  "repository": "https://github.com/ai94iq/robotframework-agent-skills",
+  "license": "Apache-2.0",
+  "keywords": ["robotframework", "testing", "maestro", "mobile-testing", "api-testing", "web-testing"]
+}

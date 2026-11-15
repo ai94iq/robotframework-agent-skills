@@ -1,0 +1,15 @@
+{
+  "name": "robotframework-agent-skills",
+  "owner": {
+    "name": "ai94iq",
+    "url": "https://github.com/ai94iq"
+  },
+  "plugins": [
+    {
+      "name": "robotframework-agent-skills",
+      "source": "./",
+      "description": "Robot Framework skills: MaestroLibrary, robotframework-mind, run digests, mutant checks, plus Browser, RequestsLibrary and RESTinstance skills with extra triage guides.",
+      "license": "Apache-2.0"
+    }
+  ]
+}

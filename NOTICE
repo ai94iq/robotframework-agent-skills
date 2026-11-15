@@ -1,0 +1,15 @@
+robotframework-agent-skills
+Copyright 2026 ai94iq
+
+Parts of this repository are based on robotframework-plugins
+(https://github.com/MarketSquare/robotframework-plugins), copyright the
+Robot Framework Foundation and contributors, licensed under the Apache
+License 2.0, taken at commit 4bd69c5:
+
+- skills/rf-browser
+- skills/rf-requests
+- skills/rf-restinstance
+- agents/rf-debug-expert.md
+
+These files were modified. Each of those folders has a CHANGES.md that names
+the source and lists the changes.
