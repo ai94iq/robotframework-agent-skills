@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.10"
+# dependencies = ["robotframework>=7"]
+# ///
 """Read a robot run without reading output.xml. Stdlib only.
 
     run_digest.py summary  OUT.xml              # totals + per-suite

@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.10"
+# dependencies = ["robotframework>=7"]
+# ///
 """Kill ledger for hand-made mutants. Stdlib only.
 
 A check is worth keeping only when it fails once its code or data is broken.
